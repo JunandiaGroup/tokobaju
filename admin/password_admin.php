@@ -72,5 +72,4 @@ $myData= mysql_fetch_array($myQry);
 	  <td><input type="submit" name="btnSimpan" value=" SIMPAN " style="cursor:pointer;"></td>
     </tr>
 </table>
-Anda juga dapat merubah Password lewat tools <strong>phpMyAdmin</strong>, gunakan tipe enkripsi data <strong>MD5</strong> untuk Password.
 </form>
